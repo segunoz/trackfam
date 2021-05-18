@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079209055442",
+    "project_id": "famtrack-fbc50",
+    "storage_bucket": "famtrack-fbc50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079209055442:android:bacd6aab78c1a7987e490b",
+        "android_client_info": {
+          "package_name": "com.segun.trackfam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079209055442-d5a1b2n4fuvfifcm1fisirqkbv9co94g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKZ2_iN-MEyq8xP1SFZbSdHYfP_aYTG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079209055442-d5a1b2n4fuvfifcm1fisirqkbv9co94g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
