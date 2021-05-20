@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "1079209055442",
+    "firebase_url": "https://famtrack-fbc50-default-rtdb.firebaseio.com",
     "project_id": "famtrack-fbc50",
     "storage_bucket": "famtrack-fbc50.appspot.com"
   },
