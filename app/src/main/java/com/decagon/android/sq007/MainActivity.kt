@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //create button to got to the map activity
         btn = findViewById(R.id.button)
 
         btn.setOnClickListener {
